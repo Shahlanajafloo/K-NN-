@@ -1,2 +1,2 @@
-# K-NN-
+# K-NN
 Classification-K-NN
